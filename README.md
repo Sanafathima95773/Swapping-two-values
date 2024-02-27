@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 '''Swapping of two values
 Developed by: Sana Fathima H
 Register number:212223240145'''
@@ -27,6 +28,7 @@ tmp=surya_data
 surya_data=vijay_data
 vijay_data=tmp
 print("Swapped values are:",surya_data,vijay_data)
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-02-28 031617.png>)
 ## RESULT:
